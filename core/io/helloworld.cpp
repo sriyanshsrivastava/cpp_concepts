@@ -9,7 +9,7 @@
 
 // another hello world program syntax using cout;
 
-#include <iostream>
+#include <iostream> // header files contains method like import do in other language
 
 int main(int argc, const char * argv[]){
     // your code goes below
@@ -29,5 +29,5 @@ int main(int argc, const char * argv[]){
 */
 
 // void nothing(){
-//     puts("hello wrold"); // returning nothing as promised
+//     puts("hello world"); // returning nothing as promised
 // }
