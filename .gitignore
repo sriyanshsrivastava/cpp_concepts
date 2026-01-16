@@ -43,4 +43,6 @@
 #output folder
 output/
 **/output/
+.idea/
+
 
